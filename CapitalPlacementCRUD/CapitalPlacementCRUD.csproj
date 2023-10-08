@@ -10,4 +10,19 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="DataAccessLayer\" />
+    <Folder Include="Domain\DTO\" />
+    <Folder Include="Domain\Interface\" />
+    <Folder Include="Domain\FluentValidators\" />
+    <Folder Include="Domain\Profiles\" />
+    <Folder Include="Domain\Response\" />
+    <Folder Include="Infrastructure\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CapitalPlacementConsole\CapitalPlacementConsole.csproj" />
+  </ItemGroup>
+
 </Project>

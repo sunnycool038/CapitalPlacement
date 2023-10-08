@@ -22,4 +22,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CapitalPlacementConsole\CapitalPlacementConsole.csproj" />
+    <ProjectReference Include="..\CapitalPlacementCRUD\CapitalPlacementCRUD.csproj" />
+  </ItemGroup>
+
 </Project>
