@@ -1,0 +1,15 @@
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\bin\Debug\net6.0\CapitalPlacementConsole.exe
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\bin\Debug\net6.0\CapitalPlacementConsole.deps.json
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\bin\Debug\net6.0\CapitalPlacementConsole.runtimeconfig.json
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\bin\Debug\net6.0\CapitalPlacementConsole.dll
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\bin\Debug\net6.0\CapitalPlacementConsole.pdb
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.csproj.AssemblyReference.cache
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.AssemblyInfoInputs.cache
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.AssemblyInfo.cs
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.csproj.CoreCompileInputs.cache
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.dll
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\refint\CapitalPlacementConsole.dll
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.pdb
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\CapitalPlacementConsole.genruntimeconfig.cache
+C:\Users\Igwe Sunday Emmanuel\source\repos\CapitalPlacementCRUD\CapitalPlacementConsole\obj\Debug\net6.0\ref\CapitalPlacementConsole.dll

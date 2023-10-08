@@ -14,7 +14,7 @@ namespace CapitalPlacementConsole.Models
         public string? KeySkillsRequired { get; set; }
         public string? Benefits { get; set; }
         public string? ApplicationCriteria { get; set; }
-        public AdditionalInfo? AdditionalProgramInformation { get; set; }
+        public AdditionalInfo? AdditionalProgramInformation { get; set; } = null;
     }
 
     public class AdditionalInfo

@@ -7,17 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.7.1" />
+    <PackageReference Include="Microsoft.Azure.Cosmos" Version="3.35.4" />
+    <PackageReference Include="NLog" Version="5.2.4" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.3.4" />
+    <PackageReference Include="NLog.Schema" Version="5.2.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="DataAccessLayer\" />
     <Folder Include="Domain\DTO\" />
-    <Folder Include="Domain\Interface\" />
     <Folder Include="Domain\FluentValidators\" />
-    <Folder Include="Domain\Profiles\" />
-    <Folder Include="Domain\Response\" />
     <Folder Include="Infrastructure\" />
   </ItemGroup>
 
